@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deborange
-- 👀 I’m interested in recruiting IT talent's 
-- 💞️ I’m looking to collaborate on your career
-- 📫 How to reach me: Linkedin - https://www.linkedin.com/in/d%C3%A9bora-laranjeira-826181161
+- 👀 I’m interested in Data Analytics and Data Analysis positions
+- 💞️ I’m looking to contribute to innovative projects and teams
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/debora-laranjeira/)
 
 <!---
 Deborange/Deborange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
