@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deborange
+- 👋 Hi, I’m Debora Laranjeira
 - 👀 I’m interested in Data Analytics and Data Analysis positions
 - 💞️ I’m looking to contribute to innovative projects and teams
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/debora-laranjeira/)
