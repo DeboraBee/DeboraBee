@@ -1,4 +1,4 @@
-# 💻 Olá! Eu sou a Débora
+# 💻 Olá, eu sou a Débora!
 
 **`Data Analyst`**
 
